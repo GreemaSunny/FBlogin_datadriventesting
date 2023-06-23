@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-23T18:02:06 IST" name="Suite" finished-at="2023-06-23T18:04:56 IST" duration-ms="170182">
+    <groups>
+    </groups>
+    <test started-at="2023-06-23T18:02:06 IST" name="Test" finished-at="2023-06-23T18:04:56 IST" duration-ms="170182">
+      <class name="test.Createpagetest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.Createpagetest@41a0aa7d]" started-at="2023-06-23T18:03:27 IST" name="setup" finished-at="2023-06-23T18:04:33 IST" duration-ms="65092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Createtest()[pri:0, instance:test.Createpagetest@41a0aa7d]" started-at="2023-06-23T18:04:33 IST" name="Createtest" finished-at="2023-06-23T18:04:56 IST" duration-ms="23731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Createtest -->
+      </class> <!-- test.Createpagetest -->
+      <class name="test.Fblogintestdatadriven">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.Fblogintestdatadriven@4d154ccd]" started-at="2023-06-23T18:02:06 IST" name="setup" finished-at="2023-06-23T18:02:57 IST" duration-ms="50589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginwithValidCred()[pri:0, instance:test.Fblogintestdatadriven@4d154ccd]" started-at="2023-06-23T18:02:57 IST" name="verifyLoginwithValidCred" finished-at="2023-06-23T18:03:27 IST" duration-ms="30636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginwithValidCred -->
+      </class> <!-- test.Fblogintestdatadriven -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
